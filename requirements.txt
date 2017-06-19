@@ -1,0 +1,5 @@
+inflect == 0.2.5
+MySQL-python==1.2.5
+sqlacodegen==1.1.6
+SQLAlchemy==1.1.10
+wheel==0.29.0
